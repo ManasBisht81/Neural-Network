@@ -305,6 +305,6 @@ canvas {
         padding: 10px 16px;
         min-width: auto;
         font-size: 11px;
-        flex: 1;
+        flex: 2;
     }
 }
